@@ -24,7 +24,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+Crie um arquivo .env com a variavel DATABASE_URL="postgresql://USARIO:SENHA@localhost:5432/DB?schema=public"
 ## Project setup
 
 ```bash
